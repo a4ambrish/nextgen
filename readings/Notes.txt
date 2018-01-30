@@ -1,0 +1,18 @@
+client side
+Javascript (implementation)
+EcmaScript (standard)
+ES6 (2015)
+TypeScript
+	compiler based prg. lang.
+	ts --output-- js (tranplining )
+	typesafe
+	oop concepts 
+        polyfills(flilling the gap in browser support)
+	client side MVC.
+angular 4 -> typescritpt
+
+native application
+cordova -> angluar 4
+
+
+
